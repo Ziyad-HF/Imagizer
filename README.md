@@ -65,7 +65,7 @@ Imagizer is a desktop application built using PyQt to perform various image proc
 
 ## Contributors
 
-- [Ziyad El Fayoumy](https://github.com/Zoz-HF)
+- [Ziyad El Fayoumy](https://github.com/Ziyad-HF)
 - [Assem Hussein](https://github.com/RushingBlast)
 - [Mohamed Sayed Diab](https://github.com/MohamedSayedDiab)
 - [Abdel Rahman Shawky](https://github.com/AbdulrahmanGhitani)
